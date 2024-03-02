@@ -1,3 +1,7 @@
+Firstly Create a Python Project and Open "assets", "Databse", "accountsystem.py" File Together
+
+Run "accountsystem.py" to see output Result
+
 By run this code, a window open where have 3 function.
 
 1.Create a Account
